@@ -179,17 +179,7 @@ http://127.0.0.1:5000
 
 The Smart Lender application successfully predicts loan approval status using machine learning, reducing manual effort and enabling faster, data-driven loan decisions.
 
----
 
-## 👨‍💻 Developed By
-
-**Sahith Kotaru**
-
-B.Tech – Data Science
-
-Kallam Haranadhareddy Institute of Technology
-
----
 
 ## 📄 License
 
