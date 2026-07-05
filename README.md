@@ -180,7 +180,9 @@ http://127.0.0.1:5000
 The Smart Lender application successfully predicts loan approval status using machine learning, reducing manual effort and enabling faster, data-driven loan decisions.
 
 
-
+## PROJECT DEMO
+View the Working of entire project at: 
+https://drive.google.com/file/d/16UZal3keziQtwI4ZMswfS3_6ksp--UNg/view?usp=drivesdk
 ## 📄 License
 
 This project is developed for academic and learning purposes as part of the SmartBridge IBM SkillsBuild Internship.
